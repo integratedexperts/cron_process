@@ -1,0 +1,14 @@
+{
+    "name": "integratedexperts/cron_process",
+    "description": "Drupal module to discover and process items via cron, while tracking already processed items.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Alex Skrypnyk",
+            "email": "alex@integratedexperts.com"
+        }
+    ],
+    "require-dev": {
+    }
+}

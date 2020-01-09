@@ -1,0 +1,5 @@
+name: Cron process
+type: module
+description: Drupal module to discover and process items via cron, while tracking already processed items.
+package: Cron
+core: 8.x
