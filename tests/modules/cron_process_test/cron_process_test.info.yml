@@ -1,0 +1,5 @@
+name: Cron process test
+type: module
+description: Test module for Cron process.
+package: Testing
+core: 8.x
